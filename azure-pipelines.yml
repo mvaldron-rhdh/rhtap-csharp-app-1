@@ -11,7 +11,7 @@ pool:
   name: resourcehub
 
 container:
-  image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+  image: quay.io/redhat-appstudio/rhtap-task-runner:f2485fb
   options: --privileged
 
 # Using 'rhtap' variable group by default
